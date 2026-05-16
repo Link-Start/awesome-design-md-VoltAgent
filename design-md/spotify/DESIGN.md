@@ -1,4 +1,4 @@
-# Design System Inspiration of Spotify
+# Design System Inspired by Spotify
 
 ## 1. Visual Theme & Atmosphere
 

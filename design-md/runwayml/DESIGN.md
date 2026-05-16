@@ -1,4 +1,4 @@
-# Design System Inspiration of Runway
+# Design System Inspired by Runway
 
 ## 1. Visual Theme & Atmosphere
 
